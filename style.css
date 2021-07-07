@@ -17,7 +17,7 @@ h1{
     padding-left: 5%;
 }
 .half-width img{
-    width: 60%;
+    width: 70%;
 }
 .order-button{
     text-decoration: none;
@@ -40,28 +40,40 @@ h1{
 }
 .about-us{
     background-image: url(img/contact\ us.png);
-    height: 500px;
     background-repeat: no-repeat;
+    background-size: 100% 300%;
 }
 .recipie{
     margin: 5%;
     width: 30%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .recipie img{
-    width: 12%;
+    width: 100%;
+    
 }
 .box-shadow{
-    padding-left: 5%;
+    
+  
     
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
 }
 .margin{
-    margin-left: 10%;
+    margin-left: 20%;
     
+}
+.background-color{
+    background-color: black;
 }
 footer p{
     color: white;
     text-align: center;
-    background-color: black;
+    
+}
+p{
+    text-align: justify;
 }
