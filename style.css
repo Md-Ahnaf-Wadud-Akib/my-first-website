@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: rgb(10, 152, 247);
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 120px;
 }
@@ -42,4 +42,26 @@ section{
     background-image: url(img/contact\ us.png);
     height: 500px;
     background-repeat: no-repeat;
+}
+.recipie{
+    margin: 5%;
+    width: 30%;
+}
+.recipie img{
+    width: 12%;
+}
+.box-shadow{
+    padding-left: 5%;
+    
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+.margin{
+    margin-left: 10%;
+    
+}
+footer p{
+    color: white;
+    text-align: center;
+    background-color: black;
 }
